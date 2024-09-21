@@ -1,0 +1,49 @@
+@import './base.css';
+@import './flex.css';
+@import './container.css';
+@import './text.css';
+@import './compoment.css';
+
+#app {
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: rgb(30, 212, 240);
+  transition: 0.4s;
+  padding: 3px;
+  cursor: pointer;
+}
+
+html {
+  overflow-y: scroll;
+  /* 保持滚动功能 */
+  scrollbar-width: none;
+  /* 针对 Firefox */
+}
+
+html::-webkit-scrollbar {
+  display: none;
+  /* 针对 Chrome, Safari 和 Opera */
+}
+
+/* @media (hover: hover) {
+  a:hover {
+    background-color: hsla(203, 19%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */

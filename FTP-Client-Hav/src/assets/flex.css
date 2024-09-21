@@ -1,0 +1,93 @@
+.spacer {
+    flex-grow: 1;
+}
+
+.flex-center-both {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 水平的 */
+
+.flex-center-horizontal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex-top-horizontal {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* 根据需要，可以改为center使得子项垂直居中 */
+}
+
+.flex-bottom-horizontal {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.flex-divide-horizontal {
+    display: flex;
+    align-items: center;
+}
+
+.flex-divide-horizontal > * {
+    /* 直接子项的css */
+    flex: 1;
+}
+
+.flex-center-vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+}
+
+.flex-vertical {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.flex-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.no-shrink {
+    flex-shrink: 0;
+    /* 不允许元素缩小 */
+}
+
+.yes-shrink {
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 0;
+    overflow: hidden;
+    /* 隐藏溢出的文本 */
+    white-space: nowrap;
+    /* 防止文本换行 */
+    text-overflow: ellipsis;
+    /* 使用省略号表示溢出的文本 */
+}
+
+.gap-5 {
+    gap: 5px;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-15 {
+    gap: 15px;
+}
+
+.gap-20 {
+    gap: 20px;
+}

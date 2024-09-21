@@ -1,0 +1,33 @@
+directories:
+  output: app_client
+  buildResources: build
+appId: your.id
+productName: Electron + Vue3 开发桌面应用
+copyright: Copyright © year ${author}
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+mac:
+  category: public.app-category.music
+  icon: build/icon.icns
+  target:
+    - target: dmg
+      arch:
+        - x64
+    - target: zip
+      arch:
+        - x64
+win:
+  icon: build/icon.ico
+  target:
+    - target: nsis
+      arch:
+        - x64
+        - ia32
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  installerIcon: build/icon.ico
+  uninstallerIcon: build/icon.ico
+electronVersion: 31.2.0

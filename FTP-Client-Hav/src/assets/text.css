@@ -1,0 +1,20 @@
+.no-warp {
+    white-space: nowrap;
+}
+
+.yes-warp {
+    word-wrap: break-word;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+.unselectable {
+    user-select: none;
+    /* 阻止文本选择 */
+}
+
+.no-pointer {
+    pointer-events: none;   /* 禁止鼠标事件 */
+    cursor: default;
+    /* 设置默认鼠标光标 */
+}
