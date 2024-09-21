@@ -1,0 +1,2 @@
+C:\Users\Havoc\source\repos\FTP-server\bin\Release\net8.0\publish\win-x64\FTP-server.pdb
+C:\Users\Havoc\source\repos\FTP-server\bin\Release\net8.0\publish\win-x64\FTP-server.exe

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnXJsaCjbtIpWMSdMRmHiucmViDCtr1YFRVOsviDXFWiw9eUTX6dnJug4dretKVxwHykQFXlT9bHSKersFIl4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Havoc\\source\\repos\\FTP-server\\FTP-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Havoc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Havoc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.3\\microsoft.netcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Havoc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Havoc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.win-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

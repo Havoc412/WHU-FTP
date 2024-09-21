@@ -1,0 +1,14 @@
+C:\Users\Havoc\source\repos\FTP-server\bin\Debug\net8.0\FTP-server.exe
+C:\Users\Havoc\source\repos\FTP-server\bin\Debug\net8.0\FTP-server.deps.json
+C:\Users\Havoc\source\repos\FTP-server\bin\Debug\net8.0\FTP-server.runtimeconfig.json
+C:\Users\Havoc\source\repos\FTP-server\bin\Debug\net8.0\FTP-server.dll
+C:\Users\Havoc\source\repos\FTP-server\bin\Debug\net8.0\FTP-server.pdb
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.AssemblyInfoInputs.cache
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.AssemblyInfo.cs
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.csproj.CoreCompileInputs.cache
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.dll
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\refint\FTP-server.dll
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.pdb
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\FTP-server.genruntimeconfig.cache
+C:\Users\Havoc\source\repos\FTP-server\obj\Debug\net8.0\ref\FTP-server.dll
